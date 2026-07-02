@@ -1,0 +1,19 @@
+Stage 8: Async + FastAPI Prep
+
+Watch:
+
+156 AsyncIO
+157 Pydantic
+Mini Project #8
+
+Async API Fetcher
+
+Fetch multiple APIs concurrently.
+
+Example:
+
+weather
+crypto
+news
+
+at the same time.
