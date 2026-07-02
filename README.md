@@ -29,6 +29,7 @@ This repository contains the scripts, experiments, notes, and practice code I wr
 | [Library Management System](https://github.com/Code-X-Slayer/library_system) | OOP-based library management system. |
 | [Weather App](https://github.com/Code-X-Slayer/weather_app) | Fetches and displays weather information using an API. |
 | [Movie API Client](https://github.com/Code-X-Slayer/movie_api_client) | Searches movie information using the OMDb API. |
+| [GitHub Profile Aggregator (Async Microservice)](https://github.com/Code-X-Slayer/GitHub_Profile_Aggregator_Using_Async_MicroServices) | Github Dashboard using Asynchronous Python Microservice. |
 
 ## Acknowledgements
 
