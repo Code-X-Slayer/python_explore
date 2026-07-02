@@ -1,0 +1,15 @@
+Stage 7: Modern Python (Important for FastAPI)
+
+Watch:
+
+146 DotEnv
+154 Type Hinting Concepts
+155 Type Hints Deep Dive
+Mini Project #7
+
+Movie API Client
+
+Search movie
+Type hinted code
+Environment variables
+JSON responses
