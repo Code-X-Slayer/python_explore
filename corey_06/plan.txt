@@ -1,0 +1,27 @@
+Stage 6 — APIs & External Data (1–2 Days)
+Watch
+✅ 100 — Requests
+✅ 47 — JSON (Quick Revision if needed)
+✅ 146 — DotEnv
+
+Optional
+
+107 — Working with JSON APIs
+Mini Project #6 — Weather Dashboard
+
+Features
+
+Search city
+Show temperature
+Show humidity
+Show weather description
+Save search history to JSON
+Handle invalid city names
+
+Concepts covered
+
+Requests
+APIs
+JSON
+Error handling
+Environment variables
